@@ -1,7 +1,7 @@
 # Product Title
 _Xtender_: Authoring and Content Management Tool.
 # Prerequisites
-The user must be an employee of _Xtender_ associated company to access this application.
+The user must be an employee of _**Xtender**_ associated company to access this application.
 # Installation
 Go through the _**Xtender_ Installation Guide** to install the application on the local machine.
 # Version
@@ -21,7 +21,8 @@ Click on the following link to open the image: [GitHub Image](https://github.com
 
 > Use the greater than symbol to add the content in a quote
 
-
+# Updates
+- [x] I have updated this now
 
 # Lists
 

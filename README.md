@@ -7,7 +7,7 @@ Go through the _**Xtender_ Installation Guide** to install the application on th
 # Version
 Install the later version- v1.03: New UI and UX flow implemented.
 # Footnote
-[^1] : My footnote
+[^1]: My footnote
 # Product Scope
 This document will help the user, especially the product writer, to develop and maintain content and microsites.
 
@@ -53,6 +53,8 @@ Click on the following link to open the image: [GitHub Image](https://github.com
 # Deleted Items
 
 <del> This sentence is deleted, so ignore this sentence. </del>
+
+<del> Second sentence is deleted, so ignore this sentence. </del>
 
 # License
 Xtender is licensed for internal usage only.

@@ -6,6 +6,8 @@ The user must be an employee of _**Xtender**_ associated company to access this 
 Go through the _**Xtender_ Installation Guide** to install the application on the local machine.
 # Version
 Install the later version- v1.03: New UI and UX flow implemented.
+# Footnote
+[^1] : My footnote
 # Product Scope
 This document will help the user, especially the product writer, to develop and maintain content and microsites.
 

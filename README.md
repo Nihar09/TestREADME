@@ -18,3 +18,6 @@ This document will help the user, especially the procdut writer, to develop and 
 Xtender is licensed for internal usage only.
 # Acknowledgments
 Test README file
+
+# DELETE
+<del> This sentence is deleted, so ignore this sentence. </del>
